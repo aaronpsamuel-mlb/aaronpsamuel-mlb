@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @aaronpsamuel-mlb
-- 👀 I’m interested in Site Reliability, Artificial Intelligence, Physics, Biology and Ecology
+- 👋 Hi, I’m Aaron Samuel
+  - 😄 Pronouns: he/him
+## Career
+
+👀 I’m interested in:
+
+- Site Reliability
+- Artificial Intelligence
+- Physics
+- Biology
+- Ecology
+
+## Interests
+
 - 🌱 I’m currently learning about the Go language
+
+## Communication
+
 - 📫 How to reach me   
   - [slack](https://mlb.enterprise.slack.com/archives/D07SRJXJ8C9)
-- 😄 Pronouns: he/him
+
 - ⚡ Fun fact: ...
 
 <!---
