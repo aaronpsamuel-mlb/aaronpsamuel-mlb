@@ -6,8 +6,8 @@
 
 - **Site Reliability**
 - **Artificial Intelligence**
-- **Physics**
-- **Genetics**
+- **The Kardashev Scale**
+- **Cancer, NTDs research and how In Silico data will effect the landscape**
 - **Ecology**
 
 - 🌱 I’m currently learning about the Go language
