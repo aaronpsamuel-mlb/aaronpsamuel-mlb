@@ -7,7 +7,7 @@
 - **Site Reliability**
 - **Artificial Intelligence**
 - **Physics**
-- **Biology**
+- **Genetics**
 - **Ecology**
 
 - 🌱 I’m currently learning about the Go language
